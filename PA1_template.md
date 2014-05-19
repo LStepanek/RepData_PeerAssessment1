@@ -1,7 +1,7 @@
 Programming Assignment 1
 ========================================================
 
-##This assignment deals with the data about movement activity during day, the data were collected between 1st of October ##2012 and 30th of November 2012.
+##This assignment deals with the data about movement activity during day, the data were collected between 1st of October 2012 and 30th of November 2012.
 
 
 
